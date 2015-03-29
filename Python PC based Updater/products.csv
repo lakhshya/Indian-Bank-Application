@@ -1,0 +1,32 @@
+idno,title,fname
+0,About Us,
+1,CMD's Profile,cmd.html
+2,ED's Profile,ed.html
+3,Board of Directors,board.html
+4,Loans,
+5,IB Home Loan,hl.html
+6,IB Vehicle Loan,vl.html
+7,Education Loan,el.html
+8,Savings Bank Accounts,
+9,SB Platinum,sb_platinum.html
+10,SB Gold,sb_gold.html
+11,SB Silver,sb_silver.html
+12,Term Deposits,
+13,Ind Tax Saver,tax_savings.html
+14,IB Savings Certificate,savings_cert.html
+15,IB Tax Savings Certificate,tax_cert.html
+16,Variable Recurring Deposits,vrd.html
+17,Capital Gains,capt_gains.html
+18,NRI Accounts,
+19,Non Resident Ordinary A/c,non_resident_ordinary_account.html
+20,NRE SB A/c,nre_sb_account.html
+21,NRE FD/RIP/RD A/c,nre_accounts.html
+22,Resident Foreign Currency A/c,resident_foreign_currency_account.html
+23,FCNR (B) A/c,fcnr_accounts.html
+24,Premium Services,
+25,Ind Netbanking,net.html
+26,Ind Mobile Banking,mob.html
+27,Ind Phone Banking,phone.html
+28,Money Gram,money_gram.html
+29,Xpress Money,xpress.html
+30,MCA Payment,mca.html
